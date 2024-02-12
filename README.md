@@ -1,5 +1,4 @@
 # AlineMendonca
-# Aline Mendonça
 
 ![Aline Mendonça]([link-para-sua-imagem.jpg](https://github.com/MendoncaMs/AlineMendonca/blob/main/DALL%C2%B7E%202024-02-11%2013.00.39%20-%20Create%20a%20pixel%20art%20caricature%20of%20a%20young%20woman%20with%20long%20hair%2C%20based%20on%20the%20reference%20photo%20provided.%20The%20caricature%20should%20capture%20the%20subject's%20gene.webp)) <!-- Substitua com o link correto da imagem -->
 
