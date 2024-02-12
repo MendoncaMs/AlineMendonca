@@ -1,7 +1,6 @@
 # AlineMendonca
 
-![Descrição alternativa](![Aline Mendonça](/caminho/para/sua/imagem.jpg)
-)
+![Aline Mendonça](/caminho/para/sua/imagem.jpg)
 <!-- Substitua com o link correto da imagem -->
 
 ## Sobre Mim
