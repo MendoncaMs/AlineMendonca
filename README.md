@@ -1,6 +1,6 @@
 # AlineMendonca
 
-![Aline Mendonça]([![Caricatura](https://github.com/MendoncaMs/AlineMendonca/assets/157612006/326c7fed-d022-4983-8819-a2cef5f61a13))) <!-- Substitua com o link correto da imagem -->
+![Aline Mendonça]([![Caricatura](https://github.com/MendoncaMs/AlineMendonca/assets/157612006/326c7fed-d022-4983-8819-a2cef5f61a13)) <!-- Substitua com o link correto da imagem -->
 
 ## Sobre Mim
 Especialista em Análise de Dados com foco em análise preditiva, prescritiva e descritiva. Utilizo R e Python para extrair insights de grandes conjuntos de dados, aplicando modelos estatísticos e algoritmos de machine learning para informar decisões de negócios. Com experiência em liderar a transformação de dados em soluções estratégicas em diversos segmentos, tenho habilidades avançadas em plataformas de BI como Cognos Analytics, Grafana, Power BI, e MicroStrategy.
