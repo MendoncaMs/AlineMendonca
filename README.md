@@ -41,6 +41,23 @@ Especialista em Análise de Dados com foco em análise preditiva, prescritiva e 
 - LinkedIn: [Aline Mendonça](https://www.linkedin.com/in/aline-m-78164a157/)
 - GitHub: [MendoncaMs](https://github.com/MendoncaMs/AlineMendonca/blob/main/README.md)
 
+## Projetos
+
+- Projeto Saúde: Sistema de Análise Preditiva para Gestão de Estoque de Medicamentos
+Desenvolver um sistema de análise preditiva utilizando Python e R para prever o vencimento de medicamentos em estoque nas unidades de saúde. Este projeto envolveria a coleta e integração de dados de diferentes fontes de estoque, aplicação de modelos estatísticos e algoritmos de machine learning para prever a demanda futura e prazos de validade, otimizando a gestão de estoque e reduzindo o risco de desabastecimento. A visualização dos dados seria realizada através de dashboards interativos no Power BI, facilitando a tomada de decisão rápida por parte dos gestores de saúde.
+
+- Projeto Centro de Operações da Prefeitura do Rio de Janeiro: Plataforma Unificada de Alerta Urbano
+Criar uma solução integrada que unifique dados de diferentes órgãos públicos em um único banco de dados, utilizando técnicas avançadas de ETL e integração de dados. O objetivo seria detectar atuações de alerta na cidade e acionar os serviços de emergência com mais rapidez. Este sistema faria uso de análise preditiva para antecipar eventos críticos baseando-se em padrões históricos, utilizando Power BI e Cognos Analytics para desenvolver um dashboard centralizado que exiba alertas em tempo real, melhorando a capacidade de resposta da cidade a situações de emergência.
+
+- Projeto Transporte Sul do Tejo: Otimização de Rotas e Análise de Usuários
+Este projeto envolveria o desenvolvimento de um sistema de análise de dados para otimizar as rotas de ônibus, visando a minimização dos custos com combustível e a melhoria da experiência do usuário. Utilizando dados coletados de GPS e sistemas de ticketagem, aplicar-se-ia modelagem estatística e algoritmos de machine learning para identificar as rotas mais eficientes e os padrões de uso dos passageiros. A visualização dos resultados seria feita através de dashboards no Power BI, permitindo uma gestão mais eficaz da logística de transporte e uma melhor alocação de recursos.
+Estes projetos fictícios demonstram a aplicação prática de suas habilidades em análise de dados, programação e visualização de dados em áreas críticas como saúde, gestão urbana e transporte, destacando sua capacidade de traduzir dados complexos em insights acionáveis e soluções inovadoras.
+
+## Projetos em PBI
+- https://lnkd.in/dHDMbEV6 
+- https://lnkd.in/dTfdq5iS 
+- https://lnkd.in/d6eKRDe7 
+- https://lnkd.in/dRptwVWC 
 ---
 
 Este README é um resumo do meu perfil profissional. Para mais detalhes, projetos e experiências, por favor, visite meu [perfil do GitHub](https://github.com/MendoncaMs).
