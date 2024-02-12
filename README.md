@@ -1,6 +1,6 @@
 # AlineMendonca
 
-![Descrição alternativa](url-da-imagem)
+![Descrição alternativa]([url-da-imagem](https://github.com/MendoncaMs/AlineMendonca/edit/main/Caricatura.jpg))
 <!-- Substitua com o link correto da imagem -->
 
 ## Sobre Mim
