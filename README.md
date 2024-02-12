@@ -1,6 +1,6 @@
 # AlineMendonca
 
-![Aline Mendonça]([link-para-sua-imagem.jpg](https://github.com/MendoncaMs/AlineMendonca/blob/main/DALL%C2%B7E%202024-02-11%2013.00.39%20-%20Create%20a%20pixel%20art%20caricature%20of%20a%20young%20woman%20with%20long%20hair%2C%20based%20on%20the%20reference%20photo%20provided.%20The%20caricature%20should%20capture%20the%20subject's%20gene.webp)) <!-- Substitua com o link correto da imagem -->
+![Aline Mendonça]([![Caricatura](https://github.com/MendoncaMs/AlineMendonca/assets/157612006/326c7fed-d022-4983-8819-a2cef5f61a13))) <!-- Substitua com o link correto da imagem -->
 
 ## Sobre Mim
 Especialista em Análise de Dados com foco em análise preditiva, prescritiva e descritiva. Utilizo R e Python para extrair insights de grandes conjuntos de dados, aplicando modelos estatísticos e algoritmos de machine learning para informar decisões de negócios. Com experiência em liderar a transformação de dados em soluções estratégicas em diversos segmentos, tenho habilidades avançadas em plataformas de BI como Cognos Analytics, Grafana, Power BI, e MicroStrategy.
