@@ -29,7 +29,9 @@ Especialista em Análise de Dados com foco em análise preditiva, prescritiva e 
 - Google Analytics Individual Qualification
 - PL-300 Microsoft Power BI Data Analyst
 - ITIL 4 Foundation
-- Oracle Cloud Infrastructure 2023 Foundations Associate
+- Oracle Cloud Infrastructure Foundations 
+- Oracle Cloud Data Management Associate
+- Oracle Cloud Infrastructure AI Foundations
 
 ## Idiomas
 - Português: Nativo
