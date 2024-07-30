@@ -12,7 +12,7 @@ Atuante em Engenharia de Dados e em Análise de Dados com foco. Domínio em mode
 - Extensões em Planejamento Estratégico, Metodologia Ágil e Gestão de Processos
 
 ## Experiência Profissional
-- VSoft - Engenheira de Dados
+
 - TST (Empresa de Transportes de Passageiros Portugal) – Analista de Dados
 - Stefanini (Empresa de Suporte de TI Projeto SENAC) – Analista de Dados
 - AM Serviços (Projeto de Monitoramento de Clínicas da Família) – Analista de BI
